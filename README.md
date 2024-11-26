@@ -1,3 +1,3 @@
 # Hackerrank
 
-All the solutions of Hackerrank Problems of Java!
+All the solutions of Hackerrank Problems!
