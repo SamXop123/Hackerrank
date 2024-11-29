@@ -20,3 +20,6 @@ def solve(s):
 
 #4
 print(' '.join([x.capitalize() for x in input().split(' ')]))
+
+
+# Cannot be sure about the accuracy of these solutions. Just try all these. If works then good, else move on.
